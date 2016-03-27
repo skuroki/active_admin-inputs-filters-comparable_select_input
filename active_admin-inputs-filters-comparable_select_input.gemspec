@@ -1,11 +1,10 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'active_admin/inputs/filters/comparable_select_input/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "active_admin-inputs-filters-comparable_select_input"
-  spec.version       = ActiveAdmin::Inputs::Filters::ComparableSelectInput::VERSION
+  spec.version       = '0.1.0'
   spec.authors       = ["KUROKI Shinsuke"]
   spec.email         = ["s-kuroki@aiming-inc.com"]
 
