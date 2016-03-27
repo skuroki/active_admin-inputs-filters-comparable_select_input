@@ -36,7 +36,7 @@ filter :rarity, as: :comparable_select, collection: { 'common' => 10, 'uncommon'
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/active_admin-inputs-filters-comparable_select_input. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/skuroki/active_admin-inputs-filters-comparable_select_input. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## License
 
