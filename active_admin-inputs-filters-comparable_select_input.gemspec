@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = "active_admin-inputs-filters-comparable_select_input"
-  spec.version       = '0.1.0'
+  spec.version       = '0.1.1'
   spec.authors       = ["KUROKI Shinsuke"]
   spec.email         = ["s-kuroki@aiming-inc.com"]
 
